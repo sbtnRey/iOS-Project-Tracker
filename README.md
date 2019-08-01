@@ -1,4 +1,4 @@
-**Below is an ongoing list of iOS projects that I have finished with the top project being the most recent.**
+**I wanted to keep track of each iOS project I've made, so I made this list. The top most posts are the most recently finished apps.**
 
 Who's that Pokemon
 ------
