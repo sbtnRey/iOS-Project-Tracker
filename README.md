@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+**Below is an ongoing list of iOS projects that I have finished with the top project being the most recent.**
 
-You can use the [editor on GitHub](https://github.com/sbtnRey/iOS-Project-Tracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Who's that Pokemon
+------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wanted to make a simple guessing game based on the pokemon show. Right before commercial breaks the show would show a blacked out image of a pokemon then when the commercial break ended it would go back to the the mystery pokemon and reveal it. I used python to scrape, clean, and modify (create blacked out images) the pokemon images (first 151 pokemon) and scrape the sounds they make.
 
-### Markdown
+<a href="https://imgflip.com/gif/371odv"><img src="https://i.imgflip.com/371odv.gif" title="made at imgflip.com"/></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Random Tao Te Ching
+------
 
-```markdown
-Syntax highlighted code block
+Excerpts from the Tao Te Ching are pretty interesting, so I made an app that takes a single paragraph from a random chapter and prints it the screen. Each time the button is pressed a new random paragraph is shown. Python was used to clean, and modify the Tao Te Ching.
 
-# Header 1
-## Header 2
-### Header 3
+<a href="https://imgflip.com/gif/371pfn"><img src="https://i.imgflip.com/371pfn.gif" title="made at imgflip.com"/></a>
 
-- Bulleted
-- List
+Old Piano
+------
+Basically a very simple sound generating app with a several keys one can press to generate some lo-fi piano sounds.
+[Video of the app with sound](https://youtu.be/FigKYx5cyEs)
 
-1. Numbered
-2. List
+<a href="https://imgflip.com/gif/371q7t"><img src="https://i.imgflip.com/371q7t.gif" title="made at imgflip.com"/></a>
 
-**Bold** and _Italic_ and `Code` text
+Random D20
+------
+Simple app that generates a two random numbers on a D20 (20 sided dice), not much more. 
+<a href="https://imgflip.com/gif/371qrl"><img src="https://i.imgflip.com/371qrl.gif" title="made at imgflip.com"/></a>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbtnRey/iOS-Project-Tracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
